@@ -4,8 +4,9 @@ This UDF evaluates the input expression to a boolean
 -----
 Usage
 -----
-*evaluate_to_boolean(<String> expression, input1, input2, ....input-n)*
+*evaluate_to_boolean(<String> expression, input0, input1, ....input-n)*
 
+_Input indexing start from 0_
 ---------
 Examples
 --------
